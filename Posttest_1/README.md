@@ -18,6 +18,8 @@ Berikut adalah penjelasan dan visualisasi alur kerja program:
 
 A. Menu Utama
 Saat program dijalankan, pengguna akan disuguhkan menu interaktif yang berjalan di dalam looping do-while.
+<img width="544" height="355" alt="image" src="https://github.com/user-attachments/assets/098a92f7-cab8-40c8-89b0-3bdaeef82679" />
+
 
 B. Create (Tambah Data)
 Fitur ini menggunakan metode .add() dari ArrayList untuk memasukkan objek Relik baru.
@@ -40,3 +42,4 @@ Buka aplikasi editor teks atau VS Code.
     1. Simpan teks di atas dengan nama file README.md.
     2. Jalankan program Java-mu, lalu ambil screenshot pada setiap tahap CRUD.
     3. Masukkan gambar tersebut ke dalam folder yang sama dan sesuaikan tautan gambarnya.
+
