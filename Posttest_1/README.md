@@ -16,8 +16,8 @@ Aplikasi ini dibangun dengan arsitektur modular menggunakan tiga kelas utama:
 | Kelas | Deskripsi | Atribut Utama |
 | :--- | :--- | :--- |
 | **Relic** | Kelas inti artefak | Nama, Bahan, Era |
-| **Category** | Pengelompokan jenis | Pemakaman, Perhiasan, Senjata |
-| **Room** | Lokasi fisik | Hall of Kings, Lantai 1, Basement |
+| **Category** | Pengelompokan jenis | Pemakaman, Perhiasan |
+| **Room** | Lokasi fisik | Hall of Kings, Gold Room |
 
 ---
 
@@ -59,4 +59,5 @@ Menghapus data dari memori aplikasi secara permanen menggunakan `ArrayList.remov
 2. Pastikan Java JDK sudah terinstall.
 3. Compile file utama:
    ```bash
+
    javac Main.java
