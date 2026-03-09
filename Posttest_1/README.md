@@ -49,7 +49,7 @@ Menghapus data dari memori aplikasi secara permanen menggunakan `ArrayList.remov
 | ![Read Data](./dokumentasi/lihat.png) | ![Update](./dokumentasi/ubah.png) |
 
 | Hapus |
-|---|---|
+|---|
 | ![Read Data](./dokumentasi/hapus.png) |
 
 ---
@@ -61,3 +61,4 @@ Menghapus data dari memori aplikasi secara permanen menggunakan `ArrayList.remov
    ```bash
 
    javac Main.java
+
