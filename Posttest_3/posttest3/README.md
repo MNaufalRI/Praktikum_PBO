@@ -16,7 +16,7 @@ Aplikasi ini dibangun dengan arsitektur modular menggunakan tiga kelas utama:
 | Kelas | Deskripsi | Atribut Utama |
 | :--- | :--- | :--- |
 | **Relic** | Kelas inti artefak | Nama, Bahan, Era |
-| **Category** | Pengelompokan jenis | Pemakaman, Perhiasan |
+| **Category** | Pengelompokan jenis | Pemakaman, Religius, Keseharian, Militer  |
 | **Room** | Lokasi fisik | Hall of Kings, Gold Room |
 
 ---
